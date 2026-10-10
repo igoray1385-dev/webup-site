@@ -1,0 +1,1 @@
+{"name":"webup-chess","version":"1.0.0","private":true,"type":"module","scripts":{"start":"node server.mjs"},"dependencies":{"gsap":"3.13.0","three":"0.180.0"}}
